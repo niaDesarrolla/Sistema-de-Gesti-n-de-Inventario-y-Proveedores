@@ -1,6 +1,6 @@
 💻 Sistema de Gestión de Inventario y Proveedores (SQL / Oracle XE)
 
-📌 Resumen del Proyecto
+📌
 Este es un proyecto personal desarrollado para aplicar y consolidar las habilidades de modelado, administración y análisis de datos utilizando Oracle Database Express Edition (Oracle XE). El sistema simula la gestión de las relaciones con proveedores y el control del inventario de productos.
 
 Objetivo principal: Demostrar el dominio del lenguaje SQL (DDL, DML, Transacciones) y la capacidad para generar métricas de negocio.
@@ -12,7 +12,7 @@ Lenguaje de Programación: SQL
 
 Herramientas de Desarrollo: SQL Developer
 
-💡 Habilidades y Alcance Demostrado
+💡 Habilidades y Alcance
 Este repositorio contiene los scripts SQL que validan las siguientes capacidades:
 
 1. Modelado y Estructura (DDL)
@@ -35,12 +35,12 @@ Optimización: Creación de Vistas básicas como objetos persistentes para simpl
 Lógica de Negocio: Aplicación de funciones de conversión (TO_CHAR, TO_NUMBER) y expresiones condicionales (CASE) para la clasificación y análisis especializado de los datos.
 
 📂 Estructura del Repositorio
-DDL_Esquema.sql: Contiene el código para la creación de todas las tablas, índices y restricciones.
+DDL_de_Inventario_y_Setup_de_Usuario.sql: Contiene el código para la creación de todas las tablas, índices y restricciones.
 
-DML_Carga_Inicial.sql: Scripts con datos de prueba (INSERT INTO) para poblar las tablas.
+DML_Datos_Iniciales.sql: Scripts con datos de prueba (INSERT INTO) para poblar las tablas.
 
 Consultas_Reportes_Analiticos.sql: Scripts con las consultas complejas, JOINs, VISTAS y el uso de Agregación/CASE.
 
 DML_Transaccional_Ejemplo.sql: Demostración práctica del uso de COMMIT y ROLLBACK.
 
-Estado del Proyecto: En curso. (Finalización estimada: 07/11/2025).
+Estado del Proyecto: En curso. (Finalización estimada: 15/11/2025).

@@ -34,7 +34,8 @@ Optimización: Creación de Vistas básicas como objetos persistentes para simpl
 
 Lógica de Negocio: Aplicación de funciones de conversión (TO_CHAR, TO_NUMBER) y expresiones condicionales (CASE) para la clasificación y análisis especializado de los datos.
 
-📂 Estructura del Repositorio
+📂 Estructura del Repositorio 
+
 DDL_de_Inventario_y_Setup_de_Usuario.sql: Contiene el código para la creación de todas las tablas, índices y restricciones.
 
 DML_Datos_Iniciales.sql: Scripts con datos de prueba (INSERT INTO) para poblar las tablas.
